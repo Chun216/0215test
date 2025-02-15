@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://Chun216.github.io/0215test",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
